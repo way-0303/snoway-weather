@@ -22,7 +22,7 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 最高气温: {{max_temperature.DATA}}  
 
 今天是我们恋爱的第{{love_day.DATA}}天  
-距离小宝的生日还有{{birthday.DATA}}天  
+距离猪猪的生日还有{{birthday.DATA}}天  
 
 
 {{note_en.DATA}}  
