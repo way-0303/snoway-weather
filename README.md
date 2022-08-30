@@ -14,25 +14,19 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 模板内容如下：
 
-{{date.DATA}} 
+{{date.DATA}}  
+城市：{{city.DATA}} 
+天气：{{weather.DATA}}  
 
-地区：{{region.DATA}} 
+最低气温: {{min_temperature.DATA}}  
+最高气温: {{max_temperature.DATA}}  
 
-天气：{{weather.DATA}} 
-
-气温：{{temp.DATA}} 
-
-风向：{{wind_dir.DATA}} 
-
-今天是我们恋爱的第{{love_day.DATA}}天 
-
-{{birthday1.DATA}} 
-{{birthday2.DATA}}
+今天是我们恋爱的第{{love_day.DATA}}天  
+距离小宝的生日还有{{birthday.DATA}}天  
 
 
-{{note_en.DATA}} 
+{{note_en.DATA}}  
 {{note_ch.DATA}}
-
 
 天气key生成教程
 ![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/%E5%92%8C%E9%A3%8E%E5%A4%A9%E6%B0%94key%E7%94%9F%E6%88%90.png)
